@@ -1,3 +1,7 @@
+# AONeuS
+AONeuS, or Acoustic-optical Neural Surfaces, is a state-of-the-art imaging sonar and optical camera based 3d reconstruction method. 
+<img src="sample_results/teaser.png" alt="drawing"/>
+
 # System Requirements
 We ran the demo successfully on a NVIDIA RTX A6000 using CUDA 12.2 with 32 Gb RAM using a single CPU core.
 The demo took ~16 minutes to finish.
